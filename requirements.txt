@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+numpy
+ultralytics
+deep-sort-realtime
+pandas
+firebase-admin
